@@ -1,0 +1,24 @@
+{
+  "name": "harshtorrent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harsh-159/Torrent-Client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harsh-159/Torrent-Client/issues"
+  },
+  "homepage": "https://github.com/Harsh-159/Torrent-Client#readme",
+  "dependencies": {
+    "bencode": "^2.0.3",
+    "bn.js": "^5.2.1",
+    "cli-progress": "^3.11.2"
+  }
+}
